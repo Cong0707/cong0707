@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I'm a simply Student that like breathing eating and drinking
+**I'm a simply Student that like breathing eating and drinking**
 
 <!---
 
