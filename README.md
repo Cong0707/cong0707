@@ -3,6 +3,7 @@
 **I'm a simply Student that like breathing eating and drinking**
 
 [![Cong0707's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Cong0707)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Cong0707's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs?username=Cong0707)](https://github.com/pranesh-2005/github-readme-stats-fast)
 [![Cong0707's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cong0707&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!---
