@@ -4,6 +4,8 @@
 
 [![Cong0707's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Cong0707)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
+[![](https://static.afdiancdn.com/favicon.ico) Buy me a coffee](https://afdian.com/a/cong0707)
+
 <!---
 不好看
 [![Cong0707's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs?username=Cong0707)](https://github.com/pranesh-2005/github-readme-stats-fast)
